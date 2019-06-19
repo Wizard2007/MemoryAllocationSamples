@@ -10,7 +10,7 @@ namespace MemoryAllocationSamples.Boxing
 
             Console.WriteLine("i = {0}", i);
             Console.WriteLine($"i = {i}");
-            Console.WriteLine(string.Format("i = {0}", i.ToString()));
+            Console.WriteLine("i = {0}", i.ToString());
         }
     }
 }
