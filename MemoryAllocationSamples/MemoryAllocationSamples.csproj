@@ -46,6 +46,7 @@
     <Compile Include="Action\ActionAsAnonymousDelegate.cs" />
     <Compile Include="Boxing\BoxingValueType.cs" />
     <Compile Include="Boxing\EnumerableAsParameter.cs" />
+    <Compile Include="Boxing\ICollectionAsParameter.cs" />
     <Compile Include="Boxing\ListAsParameter.cs" />
     <Compile Include="Enumerators\EnamerableFromArray.cs" />
     <Compile Include="Enumerators\SimpleEnumerableCollection.cs" />
