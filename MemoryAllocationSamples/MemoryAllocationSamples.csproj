@@ -51,6 +51,7 @@
     <Compile Include="Enumerators\EnamerableFromArray.cs" />
     <Compile Include="Enumerators\SimpleEnumerableCollection.cs" />
     <Compile Include="Enum\SimpleEnum.cs" />
+    <Compile Include="Enum\UsingSimpleEnum.cs" />
     <Compile Include="Event\EventAsAnonymouseDelegate.cs" />
     <Compile Include="Event\EventAsPublicMethod.cs" />
     <Compile Include="Event\EventAsLambda.cs" />
